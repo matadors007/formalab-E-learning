@@ -1,0 +1,9 @@
+.form-signin{
+    position: absolute;
+    left:400px;
+    top:100px;
+    width: 500px;
+   
+    padding: 42px 55px 45px 55px;
+    font-size: 25px;
+}
