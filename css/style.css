@@ -7,3 +7,11 @@
     padding: 42px 55px 45px 55px;
     font-size: 25px;
 }
+.btn-warning{
+    background: #e72bee;
+    color:white;
+   
+   
+    border-radius: 25px;
+    
+}
