@@ -8,10 +8,21 @@
     font-size: 25px;
 }
 .btn-warning{
-    background: #e72bee;
+    background: #eeb02b;
     color:white;
-   
-   
+       border-radius: 25px; 
+       
+}
+
+.formulaire{
+    position: absolute;
+    left:450px;
+    top:100px;
+    width: 500px; 
+    background-color: deepskyblue;
+  border-radius: 25px;
+  padding: 42px 55px 45px 55px;
+}
+.f1{
     border-radius: 25px;
-    
 }
